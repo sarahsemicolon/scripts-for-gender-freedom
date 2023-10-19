@@ -2,7 +2,11 @@
 
 ## Over Slack / in conversation
 
-What: Sorry, just to check so I can get them right, do you mind me asking what your pronouns are?
+When: In introducing oneself to someone new
+What: Hi, I'm Janet Jackson, and I go by `they/them` pronouns. How should I refer to you?
+
+When: For someone you already know
+What: By the way, I use `he/him` pronouns. How should I refer to you?
 
 # Correcting someone who misgenders someone else
 
