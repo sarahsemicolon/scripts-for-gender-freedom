@@ -9,7 +9,9 @@ When: For someone you already know
 What: By the way, I use `he/him` pronouns. How should I refer to you?
 
 # Correcting someone who misgenders someone else
+:warning: If the person is in the conversation, they may be happy to correct it themselves, or leave it be and handle it via DMs, so exercise caution in doing this if they are present. They are, after all, the authority on how they wish to be addressed!
 
+:bulb: YMMV, but I'd only correct if I was sure I had a current source of pronouns the person would like to use - Slack, Workday, a direct personal conversation. If you're not sure 100% yourself, I'd strongly advise not doing this. 
 ## During a meeting
 
 ### Respond in the moment
